@@ -1,6 +1,4 @@
 '''
-Name: Tyler Pinaud
-Date: 7/25/2024
 Description: This file reads an Excel file and assign links as dict
                 values for date keys.
 '''
