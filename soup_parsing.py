@@ -1,6 +1,4 @@
 '''
-Name: Tyler Pinaud
-Date: 7/26/2024
 Description: This file parses text elements from BeatifulSoup webpage outputs.
 '''
 
