@@ -1,6 +1,4 @@
 '''
-Name: Tyler Pinaud
-Date: 7/26/2024
 Description: This file stores input song data into a dataframe, to be
                 written to Excel.
 '''
