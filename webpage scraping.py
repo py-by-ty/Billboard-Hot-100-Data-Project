@@ -1,6 +1,4 @@
 '''
-Name: Tyler Pinaud
-Date: 7/8/2024
 Description: This file calls user-defined functions to request access
                 to multiple webpage links, create BeautifulSoup objects
                 from those webpages, parse the text from the soups,and
